@@ -1,4 +1,4 @@
-# Text-Editor
+# Text-Editor QT
 >Progetto del corso 'Programmazione C++' del gennaio del 2021 (Università Milano-Bicocca)
 
 Specifiche del progetto:
