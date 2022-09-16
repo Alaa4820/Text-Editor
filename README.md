@@ -1,5 +1,5 @@
 # Text-Editor QT
->Progetto del corso 'Programmazione C++' del gennaio del 2021 (Università Milano-Bicocca)
+>Progetto del corso 'Programmazione C++' del gennaio del 2022 (Università Milano-Bicocca)
 
 Specifiche del progetto:
 Il progetto richiede la creazione di un editor di testo. Le funzionalità̀ richieste sono le seguenti: 
